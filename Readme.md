@@ -18,9 +18,7 @@ This will have an article count per category]
 
   Add ons. 
 
-  Disqus
-  AddThis
-  Creative commons license
+  Disqus, AddThis,  Creative commons license
 
   The site was put together with Visual Studio by creating an empty ASP.NET page and stripping all unecessary components.
 
