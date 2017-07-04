@@ -1,6 +1,6 @@
 https://devichs.github.io is a static website in a blog format.  
 
-I've built the site using only html, css, and java script from the Twitter bootstrap template, modifying as needed. 
+I've built the site using only html, css, and javascript from the Twitter bootstrap template, modifying as needed. 
 
 Before putting this together I fooled around with a static site generator called Pelican. Pelican uses Python and Jinja2 templates
 
