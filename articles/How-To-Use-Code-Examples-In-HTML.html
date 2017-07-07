@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="icons/favicon.ico">
 
-    <title>Some Stuff About HTML - Devich on Devich</title>
+    <title>How To Use Code Examples In HTML - Devich on Devich</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/theme/css/bootstrap.min.css" rel="stylesheet">
@@ -56,13 +56,24 @@
             <div class="col-sm-8 blog-main">
 
                 <div class="blog-post">
-                    <h2 class="blog-post-title" id="html2">Some Stuff About HTML</h2>
-                    <p class="blog-post-meta">June 15, 2017 by <a href="author.html" target="_blank">Steffen Devich</a></p>
-
+                    <h2 class="blog-post-title" id="html3">How To Use Code Examples In HTML</h2>
                     <p>
-                        This is some stuff about HTML.  HTML is a programming language.  Hyper Text Markup Laguage.  The Language part of the
-                        acronym gives it away.
+                        This blog of mine is html with an external style sheet and javascript, as deemed necessary by the Twitter bootstrap
+                        template. Then modified as needed. I'm not using any static site generator or other assisted-type-site-generation code.
+                        So, if I want to show code within the html I'll need to use the following html tags:
+                        <pre><code>&lt;pre&gt;</code></pre>
+                        and
+                        <pre><code>&lt;code&gt;</code></pre>
+                        and substitute the angle brackets, &lt; and &gt; with the ASCII equivelent, "$lt;" for the opening bracket and "$gt;" for the closing bracket.
                     </p>
+
+                    <h3>This is an html example:  </h3>
+                    <pre><code>&lt;a href="#"&gt;test&lt;/a&gt;</code></pre>
+                    <h3>This is a powershell example:  </h3>
+                    <pre><code>#files = gci -path "c:\path\to\your\file\*.txt"</code></pre>
+                    <h3>This is a sql example:  </h3>
+                    <pre><code>select * from "your"."table" where "yourcolumn" = 'test1'"</code></pre>
+                    <script type="text/javascript" src="//widgets.sports-reference.com/wg.fcgi?css=1&site=bbr&url=%2Fplayers%2Fj%2Fjamesle01%2Fgamelog%2F2017%2F&div=div_pgl_basic_playoffs"></script>
                 </div><!-- /.blog-post -->
                 <!-- Disqus -->
                 <div id="disqus_thread"></div>
