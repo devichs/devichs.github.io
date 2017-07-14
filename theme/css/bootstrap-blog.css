@@ -85,12 +85,12 @@ h6, .h6 {
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
-  font-size: 60px;
+  font-size: 40x;
   font-weight: normal;
   color: #555;
 }
 .blog-description {
-  font-size: 40px;
+  font-size: 20px;
   color: #999;
 }
 
@@ -143,10 +143,10 @@ h6, .h6 {
 }
 .blog-post-title {
   margin-bottom: 5px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .blog-post-meta {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   color: #999;
 }
 
