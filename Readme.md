@@ -22,6 +22,4 @@ Disqus, AddThis,  Creative commons license
 
 The site was put together with Visual Studio by creating an empty ASP.NET page and stripping all unecessary components.
 
-It was a pain getting the layout of the blog together and will be more of a pain as articles/categories are added but it 
-
-was a good exercise that gave me a better understanding of how the Pelican/Jinja2 process works. 
+It was a good exercise that gave me a better understanding of how the Pelican/Jinja2 system worksand working with Visual Studio. 
