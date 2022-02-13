@@ -1,6 +1,6 @@
 https://devichs.github.io is a static website in a blog format.  
 
-I've built the site using only html, css, and javascript from the Twitter bootstrap template, modifying as needed. 
+I've built the site using only html and css from the Twitter bootstrap template, modifying as needed. 
 
 Before putting this together I fooled around with a static site generator called Pelican. Pelican uses Python and Jinja2 templates
 
@@ -18,8 +18,8 @@ This will have an article count per category]
 
 Add ons. 
 
-Disqus, AddThis,  Creative commons license
+Disqus and Creative commons license
 
 The site was put together with Visual Studio by creating an empty ASP.NET page and stripping all unecessary components.
 
-It was a good exercise that gave me a better understanding of how the Pelican/Jinja2 system worksand working with Visual Studio. 
+It was a good exercise that gave me a better understanding of how the Pelican/Jinja2 system works and then also working with Visual Studio. 
